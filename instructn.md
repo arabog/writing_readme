@@ -32,6 +32,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+https://docs.github.com/en/get-started/writing-on-github
+
 More Markdown
 Now it's your turn. Dive into the Markdown documentation, and explore more ways to write beautiful READMEs.
 

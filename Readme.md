@@ -10,7 +10,7 @@ This recipe for <strong>cereal and milk</strong> has been passed down my family 
 
 ## Directions
 
-If I were writing these out as `code`, it might look something like this:
+If I were writing these out as _code_, it might look something like this:
 
 ```
 if bowl is empty:
